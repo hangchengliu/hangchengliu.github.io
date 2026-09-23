@@ -1,0 +1,16 @@
+{
+  "name": "刘航成 · 个人主页 (static site)",
+  "terminals": [
+    {
+      "name": "web",
+      "command": "python3 -m http.server 8000",
+      "description": "本地静态服务器，托管个人主页。启动后访问 http://localhost:8000 查看 index.html / 404.html / favicon.svg。"
+    }
+  ],
+  "ports": [
+    {
+      "name": "web",
+      "port": 8000
+    }
+  ]
+}
