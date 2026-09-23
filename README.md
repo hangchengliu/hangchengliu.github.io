@@ -16,9 +16,22 @@
 
 仓库 Settings → Pages → Deploy from a branch，选择 `main` 分支和 `/ (root)`。
 
+## 这一版
+
+- 首页和「关于」写明了正在做的 BlinkLane
+- 项目区放上 BlinkLane，并保留这个主页
+- 加上分享链接时的标题和描述、标签图标，以及找不到页面时的 `404.html`
+
+## 还需要在 GitHub 网页上改的
+
+仓库改不了个人资料。打开 GitHub 头像 → Settings → Profile：
+
+- Website 填 `https://hangchengliu.github.io`
+- Bio 可先写：做 BlinkLane，一个留在本地的 Tesla 行车记录复核工具。
+
 ## 后续可以添加
 
-- 更完整的个人介绍
-- 项目作品及截图
+- 更具体的个人经历
+- 项目截图
 - 文章和学习记录
 - 自定义域名
